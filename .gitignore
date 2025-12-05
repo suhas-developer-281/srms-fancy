@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+
+# IDE/editor directories
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# temporary / editor backups
+*~
+*.swp
